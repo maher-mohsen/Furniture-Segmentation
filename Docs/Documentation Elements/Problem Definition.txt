@@ -1,0 +1,1 @@
+Develop an AI solution for accurately detecting and segmenting furniture items within architectural scenes depicted in images. The primary objective is to create a system capable of precisely identifying furniture objects like sofas, chairs, tables, etc., within interior images, providing clear boundaries and classifications for each item.
