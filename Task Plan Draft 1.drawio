@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2024-04-07T12:49:58.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="w3KfoOKolnnyFssTrspy" version="22.1.2" type="device">
+  <diagram name="Page-1" id="IRLhReIH05ppxszAvF46">
+    <mxGraphModel dx="1430" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="540" width="490" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-1" value="&amp;nbsp;Create an AI solution for object detection and segmentation specifically tailored for furniture within architectural scenes. The goal is to accurately detect and segment furniture items within images, providing precise boundaries and classifications. For example, detect a sofa in a list of interior images.&lt;br&gt;&lt;br&gt;Deadline : 20 april 2024" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3o7xTjCyi8PZbzk8V_BB-3">
+          <mxGeometry y="30" width="490" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Task Description&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3o7xTjCyi8PZbzk8V_BB-3">
+          <mxGeometry x="131.25" width="227.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-4" value="Testing and Validation" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1050" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-5" value="Documentation" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1050" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-8" value="Integration and Deployment&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Est: 3-4 days (17 : 19 April)&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="790" y="950" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-9" value="Fine-tuning and Optimization&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Est: 2-3 days (15 or 16 April)&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="950" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-10" value="Model Evaluation&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Est: 1 day (14 or 15 April)&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="950" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-11" value="Model Training&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Est:1 day (13 or 14 April)&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=28.62;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="950" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-12" value="Problem Definition&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Est: 1 day (7 april)&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="860" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-13" value="Model Selection&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Est: 3 days(12 or 13 April)&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="790" y="860" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-14" value="Data Collection&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Est: 1-2 days (8 April)&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="860" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-15" value="Data Annotation&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Est: 1-2 days (9 or 10 April)&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="860" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Task Breaking Down&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="780" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3o7xTjCyi8PZbzk8V_BB-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Task Plan Draft 1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="390" width="260" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
