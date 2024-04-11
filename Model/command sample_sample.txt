@@ -1,0 +1,2 @@
+train = python train.py --img 640  --epochs 1  --model yolov8m.pt
+run   = python run_model.py --model yolov8x-seg.pt --image sample.jpg

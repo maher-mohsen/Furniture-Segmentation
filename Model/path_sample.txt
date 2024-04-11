@@ -1,3 +1,0 @@
-model   = yolov8x-seg.pt
-image   = sample.jpg
-command = python run_model.py --model yolov8x-seg.pt --image sample.jpg
