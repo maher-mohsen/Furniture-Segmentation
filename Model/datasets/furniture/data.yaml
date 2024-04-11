@@ -1,0 +1,17 @@
+names:
+- bed
+- chair
+- plant pot
+- sofa
+- swivelchair
+- table
+nc: 6
+roboflow:
+  license: Public Domain
+  project: object-detection-furniture
+  url: https://universe.roboflow.com/fyp-jigzw/object-detection-furniture/dataset/1
+  version: 1
+  workspace: fyp-jigzw
+test: test/images
+train: train/images
+val: valid/images
