@@ -29,21 +29,21 @@ Clone the repository:
 git clone https://github.com/maher-mohsen/Furniture-Segmentation.git
 ```
 Navigate into the project directory:
-```bash
+```cmd
 cd Furniture-Segmentation\Model
 ```
 Install the dependencies:
-```bash
+```cmd
 pip install -r requirements.txt
 ```
 ## Training the Model
-Provide detailed instructions on how to train the model, including any specific settings or parameters used.
-```bash
+Instructions on how to train the model, including any specific settings or parameters used.
+```cmd
 python train.py --img 640  --epochs 1  --model yolov8m.pt
 ```
 ## Running Inference
 Instructions on how to run the model to segment furniture in new images.
-```bash
+```cmd
 python run_model.py --model yolov8x-seg.pt --image sample.jpg
 ```
 # Results
