@@ -6,7 +6,7 @@ Briefly describe the aim of your project, what problems it solves, and how it co
 - <b>Furniture Detection:</b> Accurately detect multiple furniture categories within an image.
 - <b>Segmentation:</b> Percise segmentation of each detected furniture item.
 - <b>Efficiency:</b>  Optimized for both speed and accuracy, making it suitable for real-time applications.
-- <b>Dataset Managemen:</b> Utilization of Roboflow for dataset augmentation and preprocessing, ensuring robust model performance.
+- <b>Dataset Management:</b> Utilization of Roboflow for dataset augmentation and preprocessing, ensuring robust model performance.
 
 # Getting Started
 ## Prerequisites
