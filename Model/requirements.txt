@@ -1,3 +1,4 @@
 torch
 roboflow
 ultralytics
+libgl1
