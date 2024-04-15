@@ -66,7 +66,7 @@ python run_model.py --model yolov8x-seg.pt --image sample.jpg
 # Acknowledgments
 - Hat tip to anyone whose code was used
 - This project presented for <b>El-Jamel Architecture</b>
-# Acknowledgments
+# Demo
 You can find online Streamlit demo here
 <a href="https://furniture-segmentation-ksjybhqxybpbxwov3jafvj.streamlit.app/">
   <img src="https://i.imgur.com/YOg0fTA.png" alt="Logo" width="40">
