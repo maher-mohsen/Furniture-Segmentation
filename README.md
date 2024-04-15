@@ -5,7 +5,8 @@ Welcome to our furniture segmentation project, where we leverage the cutting-edg
 - <b>Furniture Detection:</b> Accurately detect multiple furniture categories within an image.
 - <b>Segmentation:</b> Percise segmentation of each detected furniture item.
 - <b>Efficiency:</b>  Optimized for both speed and accuracy, making it suitable for real-time applications.
-- <b>Dataset Managemen:</b> Utilization of Roboflow for dataset augmentation and preprocessing, ensuring robust model performance.
+
+- <b>Dataset Management:</b> Utilization of Roboflow for dataset augmentation and preprocessing, ensuring robust model performance.
 ## Tech Stack
 
 <p align="left"> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytroch" width="40" height="40"/> </a> <a href="https://roboflow.com/" target="_blank" rel="noreferrer"> <img src="https://app.roboflow.com/images/logomark-color.svg" alt="roboflow" width="40" height="40"/> </a> <a href="https://www.ultralytics.com/" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" alt="ultralytics" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354139/opencv.svg" alt="open-cv" width="40" height="40"/></a>
