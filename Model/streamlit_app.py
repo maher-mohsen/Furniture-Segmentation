@@ -27,11 +27,12 @@ def inference(img):
 st.set_page_config(page_title="Furniture Segmentation App", page_icon=":camera:")
 st.title("Welcome to Furniture Segmentation App")
 st.markdown("""
-Gradio demo for [Furniture Seg](https://github.com/maher-mohsen/Furniture-Segmentation)
+Streamlit demo for [Furniture Seg](https://github.com/maher-mohsen/Furniture-Segmentation)
  To use it, simply upload your image
 
+            
 """)
-
+st.image(image=f"{HOME}/logo.png", width=400)
 image_file = st.file_uploader("Upload Images", type=["png","jpg","jpeg"])
 st.markdown(
         """
@@ -43,6 +44,10 @@ if image_file is not None:
     image = load_image(image_file)
     st.image(image, caption='Uploaded Image', use_column_width=True)
     st.write("")
-    st.write("Classifying...")
-    output_image = inference(image)
-    st.image(output_image, use_column_width=True)
+    # st.write("Segmenting...")
+    with st.spinner("Segmenting..."):
+        output_image = inference(image)
+    st.success("Segmented !")
+    st.balloons()
+    
+    st.image(output_image,caption='Segmented Image', use_column_width=True)
